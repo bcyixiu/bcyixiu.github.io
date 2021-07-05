@@ -1,2 +1,2 @@
-# bcyixiu.github.io
+# yidiudiu.github.io
 blog
